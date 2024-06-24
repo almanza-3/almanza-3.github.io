@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ejemplo de enlace a página web</title>
+</head>
+<body>
+
+<p>Puedes visitar mi <a href="https://www.ejemplo.com">sitio web</a> para más información.</p>
+
+<p>Para ver más detalles, visita nuestra <a href="pagina.html">página de detalles</a>.</p>
+
+<p>También puedes revisar nuestro <a href="https://www.ejemplo.com/contacto" target="_blank">formulario de contacto</a>.</p>
+
+</body>
+</html>
